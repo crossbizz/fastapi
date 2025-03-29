@@ -14,7 +14,7 @@ from typing import (
 )
 from weakref import WeakKeyDictionary
 #hello1
-import fastapi
+import fastapiq
 from fastapi._compat import (
     PYDANTIC_V2,
     BaseConfig,
