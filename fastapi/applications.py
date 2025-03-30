@@ -12,7 +12,6 @@ from typing import (
     TypeVar,
     Union,
 )
-#hello
 from fastapi import routing
 from fastapi.datastructures import Default, DefaultPlaceholder
 from fastapi.exception_handlers import (
